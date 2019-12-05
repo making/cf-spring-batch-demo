@@ -1,3 +1,10 @@
+> ⚠️ This contents has been deprecated: Please check [this blog post](https://blog.ik.am/entries/475) instead
+
+
+
+
+
+
 # Spring Cloud Task with [Cloud Foundry V3 API](http://v3-apidocs.cloudfoundry.org/)
 
 Run Spring Cloud Task as a Cloud Foundry's short lived task
